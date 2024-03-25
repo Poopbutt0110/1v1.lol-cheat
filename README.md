@@ -1,4 +1,5 @@
 # Features
+# Password is 1234
 • Combat
       + Aimbot
             - Enabled
